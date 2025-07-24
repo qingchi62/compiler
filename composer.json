@@ -1,5 +1,5 @@
 {
-    "name": "easyswoole/compiler",
+    "name": "qingchi62/compiler",
     "type": "library",
     "description": "easyswoole component",
     "keywords" : ["swoole", "framework", "async","easyswoole"],
